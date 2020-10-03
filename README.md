@@ -10,7 +10,7 @@ $ cd WORKSPACE
 
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
-$ repo init -u https://github.com/Vishal/caf_manifest -b LA.UM.9.6.2.r1-02100-89xx.0
+$ repo init -u https://github.com/Vishalcj17/caf_manifest -b LA.UM.9.6.2.r1-02100-89xx.0
 ```
 ### Downloading the source tree ###
 
